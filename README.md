@@ -1,0 +1,1 @@
+# Azure-Image-Build-STIG-OS
